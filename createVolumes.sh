@@ -1,4 +1,7 @@
 #!/bin/bash
+# this script was originally imported from:
+# https://github.com/patrocinio/microbank/blob/master/scripts/createVolumes.sh
+# thanks to Eduardo Patrocinio ( https://github.com/patrocinio )
 
 # add your nfs server address 
 FILE_SERVER=192.168.130.10
